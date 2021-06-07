@@ -5,5 +5,5 @@
 
 Guia | Windows | MacOS
 ---- | :-------: | :-----:
-Instalação JupyterLab | [abrir](https://nbviewer.jupyter.org/github/JesseSRodrigues/Cadernos_HPC_JupyterLab/blob/main/Guia_JupyterLab_Windows.ipynb) | [abrir](https://nbviewer.jupyter.org/github/JesseSRodrigues/Cadernos_HPC_JupyterLab/blob/main/Guia_JupyterLab_Windows.ipynb)
-Instalação Vagrant    | [abrir](https://nbviewer.jupyter.org/github/JesseSRodrigues/Cadernos_HPC_JupyterLab/blob/main/Guia_Vagrant_Windows.ipynb)    | [abrir](https://nbviewer.jupyter.org/github/JesseSRodrigues/Cadernos_HPC_JupyterLab/blob/main/Guia_Vagrant_Windows.ipynb)
+Instalação JupyterLab | [abrir](https://nbviewer.jupyter.org/github/JesseSRodrigues/Cadernos_HPC_JupyterLab/blob/main/Guia_JupyterLab_Windows.ipynb) | [abrir](https://nbviewer.jupyter.org/github/JesseSRodrigues/Cadernos_HPC_JupyterLab/blob/main/Guia_JupyterLab_MacOs.ipynb)
+Instalação Vagrant    | [abrir](https://nbviewer.jupyter.org/github/JesseSRodrigues/Cadernos_HPC_JupyterLab/blob/main/Guia_Vagrant_Windows.ipynb)    | [abrir](https://nbviewer.jupyter.org/github/JesseSRodrigues/Cadernos_HPC_JupyterLab/blob/main/Guia_Vagrant_MacOS.ipynb)
