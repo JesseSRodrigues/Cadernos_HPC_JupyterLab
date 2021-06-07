@@ -1,7 +1,7 @@
-# Cadernos_HPC_JupyterLab
-> Cadernos para estudo de High Performance Computing (HPC) utilizando JupyterLab. 
+#### Notebooks JupyterLab - HPC:
+> Estudos em High Performance Computing (HPC) utilizando JupyterLab. 
 
- ### Para visualizar os cadernos no [nbviewer](https://nbviewer.jupyter.org/):
+#### Para visualizar os cadernos no [nbviewer](https://nbviewer.jupyter.org/):
 
 Guia | Windows | MacOS
 ---- | :-------: | :-----:
